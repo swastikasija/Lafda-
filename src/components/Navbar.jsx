@@ -28,7 +28,8 @@ const Navbar = () => {
       </svg>
     </button>
   </div>
-</header></>
+</header>
+</>
   )
 }
 
